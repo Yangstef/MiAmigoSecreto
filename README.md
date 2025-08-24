@@ -22,9 +22,8 @@ JavaScript (ES6) → lógica de la aplicación.
 
 Instalación y uso
 
-Link:
+Link:https://yangstef.github.io/MiAmigoSecreto/
   
-  https://github.com/Yangstef/MiAmigoSecreto/blob/master/index.html
 
 Autor
 Estefany Yang
