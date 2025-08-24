@@ -24,7 +24,7 @@ Instalación y uso
 
 Link:
   
-   git clone https://github.com/Yangstef/amigo-secreto.git
+  https://github.com/Yangstef/MiAmigoSecreto/blob/master/index.html
 
 Autor
 Estefany Yang
